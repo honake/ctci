@@ -9,6 +9,7 @@ A Node is defined as:
             self.next = next_node
 """
 
+
 def has_cycle(head):
     node = head
     memo = set()

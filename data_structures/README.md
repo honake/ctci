@@ -2,8 +2,8 @@
 
 ## Trees: Is This a Binary Search Tree?
 
-### Def.
-A tree is said to be a binary search tree if it is satisfying the following conditions.
+### Definition
+A tree is said to be **a binary search tree** if it is satisfying the following conditions.
 
 - The value of every node in a node's left subtree is less than the data value of that node.s
 - The value of every node in a node's right subtree is greater than the data value of that node.
