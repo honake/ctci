@@ -21,7 +21,7 @@ Each folder has an editorial that explains key concepts of some of the problems.
 ### ALGORITHMS
 - [x] Sorting: Bubble Sort
 - [x] Sorting: Comparator
-- [ ] Merge Sort: Counting Inversions
+- [x] Merge Sort: Counting Inversions
 - [x] Binary Search: Ice Cream Parlor
 - [x] DFS: Connected Cell in a Grid
 - [x] BFS: Shortest Reach in a Graph
