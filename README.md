@@ -15,8 +15,9 @@ Each folder has an editorial that explains key concepts of some of the problems.
 - [x] Queues: A Tale of Two Stacks
 - [x] Trees: Is This a Binary Search Tree?
 - [x] Heaps: Find the Running Median
-- [ ] Tries: Contacts
-
+ - Solved with bisect
+- [x] Tries: Contacts
+ - Solved with bisect
 
 ### ALGORITHMS
 - [x] Sorting: Bubble Sort
