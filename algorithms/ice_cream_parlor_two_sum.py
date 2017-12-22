@@ -4,7 +4,7 @@ def two_sum(m, n, a):
         if m - val in tb:
             print("{0} {1}".format(tb[m - val] + 1, idx + 1))
         else:
-            tb[val] = i
+            tb[val] = idx
 
 t = int(input().strip())
 for _ in range(t):
